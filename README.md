@@ -8,9 +8,9 @@
 	1. 安装 ssh包
       1) 新建 $GOPATH/src/golang.org/x
       2) git clone https://github.com/golang/crypto.git
-  2. 安装 sftp 包
+  	2. 安装 sftp 包
       1) go get https://github.com/pkg/sftp
-  3. 按任意键退出
+  	3. 按任意键退出
       1) go get https://github.com/nsf/termbox-go
-  4. go-mysql包
+  	4. go-mysql包
       1) go get github.com/go-sql-driver/mysql
