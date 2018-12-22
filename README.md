@@ -14,3 +14,8 @@
       1) go get https://github.com/nsf/termbox-go
   	4. go-mysql包
       1) go get github.com/go-sql-driver/mysql
+
+实现思路：
+1. 模拟登陆部署平台
+2. 拿到应用对应的ip去数据库查账户密码
+3. 拿到服务器信息ssh登陆并下载指定文件
